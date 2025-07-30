@@ -6,12 +6,13 @@ interface Unit {
 	outAcc: number
 }
 interface Item {
-	bill: new Unit
-	bank: new Unit
+	bill: Unit
+	bank: Unit
 	time: Date
 	note: string
-	select : boolean
+	select: boolean
 }
+
 interface ExItem {
 	billBlance: number
 	bankBlance: number
