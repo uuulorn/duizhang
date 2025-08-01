@@ -1,0 +1,20 @@
+interface Unit {
+	in: number
+	out: number
+	blance: number
+	inAcc: number
+	outAcc: number
+}
+interface Item {
+	bill: Unit
+	bank: Unit
+	time: Date
+	note: string
+	select: boolean
+}
+
+interface ExItem {
+	billBlance: number
+	bankBlance: number
+	note: string
+}
