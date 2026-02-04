@@ -1,0 +1,13 @@
+{
+    "name": "对账3",
+    "icons": [
+        {
+            "src": "./512.png",
+            "type": "image/png",
+            "sizes": "512x512"
+        }
+    ],
+    "start_url": "./index.html",
+    "display": "standalone",
+    "id": "x5s223s3"
+}
