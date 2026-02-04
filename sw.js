@@ -6,7 +6,8 @@ const CORE_ASSETS = [
     "./index.html",
     "./index.js",
     "./512.png",
-    './filterArgType_a29e0efbe809077351b59a6faa4e2f35.txt'
+    './filterArgType_a29e0efbe809077351b59a6faa4e2f35.txt',
+    './manifest.json'
 ];
 
 // 3. 安装阶段：缓存核心资源
